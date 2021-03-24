@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2bb19f73-3ae6-43f5-ad77-f548fc63b0ba" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/RankItem.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/BasicGridAdapter.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file:///Applications/Unity/Hub/Editor/2019.4.10f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.ugui/Runtime/UI/Core/Text.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/545ED8AF-4883-43FA-85D2-0C6F7E3D35C7/a3/863eb989/JsonObjectContract.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/InfiniteScrollView.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Scripts/ListDialog.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Event.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PlayerData.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/SimpleJSONUnity.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/SuperScrollView.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/InfiniteScrollView.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/OSAExtend/OSAPagingPanel.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/OSAExtend/OSAListBase.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/RankListAdapter.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/RankItem.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/BattleButton.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1q9Dx7XADtfON8j4hktn64C4GJC" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DebuggerViewTab_PTCS_FirstProportionKey" value="0.3496708" />
+    <property name="DebuggerViewTab_PTCS_LastProportionKey" value="0.29992685" />
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost" ignored-value-for-modified-check="32901">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" value="32901" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2bb19f73-3ae6-43f5-ad77-f548fc63b0ba" name="Default Changelist" comment="" />
+      <created>1616483168544</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1616483168544</updated>
+      <workItem from="1616483177290" duration="1917000" />
+      <workItem from="1616486717093" duration="1138000" />
+      <workItem from="1616488201819" duration="150000" />
+      <workItem from="1616488728217" duration="2878000" />
+      <workItem from="1616491969331" duration="28698000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="423" height="466" key="DebuggerActiveHint" timestamp="1616502481206">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="423" height="466" key="DebuggerActiveHint/0.0.1440.900@0.0.1440.900" timestamp="1616502481206" />
+    <state width="1398" height="331" key="GridCell.Tab.0.bottom" timestamp="1616569467031">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="331" key="GridCell.Tab.0.bottom/0.0.1440.900/-493.-1440.2560.1440@0.0.1440.900" timestamp="1616499269733" />
+    <state width="1398" height="331" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1616569467031" />
+    <state width="1398" height="331" key="GridCell.Tab.0.bottom/0.23.1440.821@0.23.1440.821" timestamp="1616513268815" />
+    <state width="1398" height="331" key="GridCell.Tab.0.center" timestamp="1616569467029">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="331" key="GridCell.Tab.0.center/0.0.1440.900/-493.-1440.2560.1440@0.0.1440.900" timestamp="1616499269730" />
+    <state width="1398" height="331" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1616569467029" />
+    <state width="1398" height="331" key="GridCell.Tab.0.center/0.23.1440.821@0.23.1440.821" timestamp="1616513268804" />
+    <state width="1398" height="331" key="GridCell.Tab.0.left" timestamp="1616569467028">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="331" key="GridCell.Tab.0.left/0.0.1440.900/-493.-1440.2560.1440@0.0.1440.900" timestamp="1616499269726" />
+    <state width="1398" height="331" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1616569467028" />
+    <state width="1398" height="331" key="GridCell.Tab.0.left/0.23.1440.821@0.23.1440.821" timestamp="1616513268797" />
+    <state width="1398" height="331" key="GridCell.Tab.0.right" timestamp="1616569467030">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="331" key="GridCell.Tab.0.right/0.0.1440.900/-493.-1440.2560.1440@0.0.1440.900" timestamp="1616499269732" />
+    <state width="1398" height="331" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1616569467030" />
+    <state width="1398" height="331" key="GridCell.Tab.0.right/0.23.1440.821@0.23.1440.821" timestamp="1616513268805" />
+    <state width="1398" height="331" key="GridCell.Tab.1.bottom" timestamp="1616569467036">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="331" key="GridCell.Tab.1.bottom/0.0.1440.900/-493.-1440.2560.1440@0.0.1440.900" timestamp="1616499269737" />
+    <state width="1398" height="331" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1616569467036" />
+    <state width="1398" height="331" key="GridCell.Tab.1.bottom/0.23.1440.821@0.23.1440.821" timestamp="1616513296597" />
+    <state width="1398" height="331" key="GridCell.Tab.1.bottom/0.23.1440.822@0.23.1440.822" timestamp="1616518676038" />
+    <state width="1398" height="331" key="GridCell.Tab.1.center" timestamp="1616569467034">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="331" key="GridCell.Tab.1.center/0.0.1440.900/-493.-1440.2560.1440@0.0.1440.900" timestamp="1616499269735" />
+    <state width="1398" height="331" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1616569467034" />
+    <state width="1398" height="331" key="GridCell.Tab.1.center/0.23.1440.821@0.23.1440.821" timestamp="1616513296596" />
+    <state width="1398" height="331" key="GridCell.Tab.1.center/0.23.1440.822@0.23.1440.822" timestamp="1616518676033" />
+    <state width="1398" height="331" key="GridCell.Tab.1.left" timestamp="1616569467033">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="331" key="GridCell.Tab.1.left/0.0.1440.900/-493.-1440.2560.1440@0.0.1440.900" timestamp="1616499269734" />
+    <state width="1398" height="331" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1616569467033" />
+    <state width="1398" height="331" key="GridCell.Tab.1.left/0.23.1440.821@0.23.1440.821" timestamp="1616513296595" />
+    <state width="1398" height="331" key="GridCell.Tab.1.left/0.23.1440.822@0.23.1440.822" timestamp="1616518676030" />
+    <state width="1398" height="331" key="GridCell.Tab.1.right" timestamp="1616569467035">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="331" key="GridCell.Tab.1.right/0.0.1440.900/-493.-1440.2560.1440@0.0.1440.900" timestamp="1616499269736" />
+    <state width="1398" height="331" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1616569467035" />
+    <state width="1398" height="331" key="GridCell.Tab.1.right/0.23.1440.821@0.23.1440.821" timestamp="1616513296596" />
+    <state width="1398" height="331" key="GridCell.Tab.1.right/0.23.1440.822@0.23.1440.822" timestamp="1616518676036" />
+    <state width="1398" height="331" key="GridCell.Tab.2.bottom" timestamp="1616569467041">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="331" key="GridCell.Tab.2.bottom/0.0.1440.900/-493.-1440.2560.1440@0.0.1440.900" timestamp="1616499269740" />
+    <state width="1398" height="331" key="GridCell.Tab.2.bottom/0.0.1440.900@0.0.1440.900" timestamp="1616569467041" />
+    <state width="1398" height="331" key="GridCell.Tab.2.bottom/0.23.1440.821@0.23.1440.821" timestamp="1616513268504" />
+    <state width="1398" height="331" key="GridCell.Tab.2.center" timestamp="1616569467039">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="331" key="GridCell.Tab.2.center/0.0.1440.900/-493.-1440.2560.1440@0.0.1440.900" timestamp="1616499269738" />
+    <state width="1398" height="331" key="GridCell.Tab.2.center/0.0.1440.900@0.0.1440.900" timestamp="1616569467039" />
+    <state width="1398" height="331" key="GridCell.Tab.2.center/0.23.1440.821@0.23.1440.821" timestamp="1616513268503" />
+    <state width="1398" height="331" key="GridCell.Tab.2.left" timestamp="1616569467038">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="331" key="GridCell.Tab.2.left/0.0.1440.900/-493.-1440.2560.1440@0.0.1440.900" timestamp="1616499269738" />
+    <state width="1398" height="331" key="GridCell.Tab.2.left/0.0.1440.900@0.0.1440.900" timestamp="1616569467038" />
+    <state width="1398" height="331" key="GridCell.Tab.2.left/0.23.1440.821@0.23.1440.821" timestamp="1616513268502" />
+    <state width="1398" height="331" key="GridCell.Tab.2.right" timestamp="1616569467040">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="331" key="GridCell.Tab.2.right/0.0.1440.900/-493.-1440.2560.1440@0.0.1440.900" timestamp="1616499269739" />
+    <state width="1398" height="331" key="GridCell.Tab.2.right/0.0.1440.900@0.0.1440.900" timestamp="1616569467040" />
+    <state width="1398" height="331" key="GridCell.Tab.2.right/0.23.1440.821@0.23.1440.821" timestamp="1616513268503" />
+    <state width="1398" height="331" key="GridCell.Tab.3.bottom" timestamp="1616569467045">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="331" key="GridCell.Tab.3.bottom/0.0.1440.900/-493.-1440.2560.1440@0.0.1440.900" timestamp="1616499269743" />
+    <state width="1398" height="331" key="GridCell.Tab.3.bottom/0.0.1440.900@0.0.1440.900" timestamp="1616569467045" />
+    <state width="1398" height="331" key="GridCell.Tab.3.bottom/0.23.1440.821@0.23.1440.821" timestamp="1616513268509" />
+    <state width="1398" height="331" key="GridCell.Tab.3.center" timestamp="1616569467043">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="331" key="GridCell.Tab.3.center/0.0.1440.900/-493.-1440.2560.1440@0.0.1440.900" timestamp="1616499269742" />
+    <state width="1398" height="331" key="GridCell.Tab.3.center/0.0.1440.900@0.0.1440.900" timestamp="1616569467043" />
+    <state width="1398" height="331" key="GridCell.Tab.3.center/0.23.1440.821@0.23.1440.821" timestamp="1616513268507" />
+    <state width="1398" height="331" key="GridCell.Tab.3.left" timestamp="1616569467042">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="331" key="GridCell.Tab.3.left/0.0.1440.900/-493.-1440.2560.1440@0.0.1440.900" timestamp="1616499269741" />
+    <state width="1398" height="331" key="GridCell.Tab.3.left/0.0.1440.900@0.0.1440.900" timestamp="1616569467042" />
+    <state width="1398" height="331" key="GridCell.Tab.3.left/0.23.1440.821@0.23.1440.821" timestamp="1616513268506" />
+    <state width="1398" height="331" key="GridCell.Tab.3.right" timestamp="1616569467044">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="331" key="GridCell.Tab.3.right/0.0.1440.900/-493.-1440.2560.1440@0.0.1440.900" timestamp="1616499269743" />
+    <state width="1398" height="331" key="GridCell.Tab.3.right/0.0.1440.900@0.0.1440.900" timestamp="1616569467044" />
+    <state width="1398" height="331" key="GridCell.Tab.3.right/0.23.1440.821@0.23.1440.821" timestamp="1616513268508" />
+    <state x="221" y="89" key="SettingsEditor" timestamp="1616569856726">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="221" y="89" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1616569856726" />
+    <state x="377" y="205" width="686" height="490" key="find.popup" timestamp="1616486525552">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="377" y="205" width="686" height="490" key="find.popup/0.0.1440.900@0.0.1440.900" timestamp="1616486525552" />
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1616559542707">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1616559542707" />
+  </component>
+</project>
