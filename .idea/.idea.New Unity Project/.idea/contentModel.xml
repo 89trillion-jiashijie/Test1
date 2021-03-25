@@ -21,6 +21,37 @@
             <e p="ProjectVersion.txt" t="Include" />
           </e>
         </e>
+        <e p="CubeClash" t="Include">
+          <e p="Util" t="Include">
+            <e p="AnimationUtils.cs" t="Include" />
+            <e p="AsyncInstantiateObject.cs" t="Include" />
+            <e p="BitMaskHelper.cs" t="Include" />
+            <e p="ColliderButton.cs" t="Include" />
+            <e p="ContentAdapter.cs" t="Include" />
+            <e p="IInstantiatedItem.cs" t="Include" />
+            <e p="InstantiatePool.cs" t="Include" />
+            <e p="LevelProgressBar.cs" t="Include" />
+            <e p="PlayableAnimator.cs" t="Include" />
+            <e p="Singleton.cs" t="Include" />
+            <e p="UnityUtil.cs" t="Include" />
+            <e p="WrappedSlider.cs" t="Include" />
+            <e p="WrappedSpriteAtlas.cs" t="Include" />
+          </e>
+        </e>
+        <e p="DOTween" t="Include">
+          <e p="readme.txt" t="Include" />
+        </e>
+        <e p="DoTweenModules" t="Include">
+          <e p="DOTween.Modules.asmdef" t="Include" />
+          <e p="DOTweenModuleAudio.cs" t="Include" />
+          <e p="DOTweenModulePhysics.cs" t="Include" />
+          <e p="DOTweenModulePhysics2D.cs" t="Include" />
+          <e p="DOTweenModuleSprite.cs" t="Include" />
+          <e p="DOTweenModuleUI.cs" t="Include" />
+          <e p="DOTweenModuleUnityVersion.cs" t="Include" />
+          <e p="DOTweenModuleUtils.cs" t="Include" />
+          <e p="UnityUtil.cs" t="Include" />
+        </e>
         <e p="iamge.cs" t="Include" />
         <e p="OSA" t="Include">
           <e p="Docs" t="Include">
@@ -167,6 +198,10 @@
           </e>
         </e>
         <e p="Scripts" t="Include">
+          <e p="BaoXiang" t="Include">
+            <e p="CoinCollectItem.cs" t="Include" />
+            <e p="CommonCollectItem.cs" t="Include" />
+          </e>
           <e p="BasicGridAdapter.cs" t="Include" />
           <e p="BasicListAdapter.cs" t="Include" />
           <e p="BattleButton.cs" t="Include" />
@@ -183,6 +218,7 @@
           <e p="WrappedMonoBehaviour.cs" t="Include" />
         </e>
       </e>
+      <e p="DOTween.Modules.csproj" t="IncludeRecursive" />
       <e p="New Unity Project.sln" t="IncludeFlat" />
       <e p="obj" t="ExcludeRecursive" />
       <e p="OSA-Editor.csproj" t="IncludeRecursive" />
